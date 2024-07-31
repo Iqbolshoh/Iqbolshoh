@@ -2,7 +2,7 @@
 
 👋 **Hello! I'm Iqbolshoh Ilhomjonov.**
 
-![Profile Banner]([https://github.com/username/repository-name/blob/main/path/to/banner.png?raw=true](https://github.com/Iqbolshoh/Iqbolshoh/blob/main/images/banner.png))
+![Profile Banner](https://github.com/Iqbolshoh/Iqbolshoh/blob/main/images/banner.png?raw=true)
 
 ## About Me
 
@@ -30,6 +30,8 @@ I have worked with a variety of programming languages and frameworks, which allo
   - ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   - ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
   - ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  - ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+  - ![Angular](https://img.shields.io/badge/Angular-%23212121.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 - **Specialties:** 
   - Algorithms
