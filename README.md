@@ -59,12 +59,29 @@ Developed and enhanced numerous personal and business websites.
 
 ## GitHub Stats
 
+## GitHub Stats
+
 ![Iqbolshoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical)
-![Wakatime Stats](https://wakatime.com/badge/user/your-wakatime-id.svg)
-![GitHub Followers](https://img.shields.io/github/followers/iqbolshoh?label=Followers&style=social)
-![GitHub Following](https://img.shields.io/github/following/iqbolshoh?label=Following&style=social)
+
+## Language Statistics
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&theme=radical)
+
+## Top Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=repo-name&theme=radical)](https://github.com/iqbolshoh/repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=another-repo-name&theme=radical)](https://github.com/iqbolshoh/another-repo-name)
+
+## Coding Stats
+
+![Coding Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&theme=radical)
+![Coding Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iqbolshoh&theme=radical)
+
+## GitHub Trophy
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical)
 
 ## Let's Connect
 
