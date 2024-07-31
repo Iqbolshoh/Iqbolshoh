@@ -19,45 +19,63 @@ I am a passionate Full-Stack Developer from Samarkand, Uzbekistan, currently in 
 
 I have worked with a variety of programming languages and frameworks, which allows me to build robust and scalable applications.
 
-- **Programming Languages:** 
-  - ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  - ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-- **Frameworks and Libraries:** 
-  - ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  - ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-  - ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  - ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-  - ![Angular](https://img.shields.io/badge/Angular-%23212121.svg?style=for-the-badge&logo=angular&logoColor=white)
-
 - **Specialties:** 
   - Algorithms
   - Cybersecurity
   - Web Development
 
+- **Programming Languages:**
+  - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  - ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+- **Frontend Technologies:**
+  - ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  - ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+- **Frameworks and Libraries:** 
+  - ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  - ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  - ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+  - ![Angular](https://img.shields.io/badge/Angular-%23212121.svg?style=for-the-badge&logo=angular&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+- **Databases:**
+  - ![MySQL](https://img.shields.io/badge/MySQL-%2300f2d8.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+- **Coding Profiles:**
+  - [Codewars](https://www.codewars.com/users/Iqbolshoh_777) 
+  - [LeetCode](https://leetcode.com/Iqbolshoh_777) 
+  - [Codeforces](https://codeforces.com/profile/Iqbolshoh_777) 
+  - [Kep.uz](https://kep.uz/profile/Iqbolshoh_777) 
+  - [Robocontest.uz](https://robocontest.uz/profile/Iqbolshoh_777)
+
+
 ## Projects
 
 Here are some of the projects I have worked on:
 
-### [templates.uz](https://templates.uz)
-A platform for developers to create and sell their own websites. Users can find the websites they need.
+### [templates.uz](http://templates.uz)
+A platform for developers to sell their own websites. Users can find the websites they need.
 
 **Technologies Used:** Laravel, JavaScript, HTML, CSS
 
-### Online Market
+### [Online Market](https://iqbolshoh.uz/market)
 An online marketplace platform that is user-friendly and efficient.
 
 **Technologies Used:** React, Node.js, MongoDB
 
-### Personal Websites
+### [Personal Websites](https://iqbolshoh.uz)
 Developed and enhanced numerous personal and business websites.
 
 **Technologies Used:** PHP, Laravel, React
-
-## GitHub Stats
 
 ## GitHub Stats
 
@@ -71,8 +89,8 @@ Developed and enhanced numerous personal and business websites.
 
 ## Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=repo-name&theme=radical)](https://github.com/iqbolshoh/repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=another-repo-name&theme=radical)](https://github.com/iqbolshoh/another-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=repo-name&theme=radical)](https://github.com/iqbolshoh/market)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=another-repo-name&theme=radical)](https://github.com/iqbolshoh/Admin-User-Roles)
 
 ## Coding Stats
 
@@ -82,6 +100,20 @@ Developed and enhanced numerous personal and business websites.
 ## GitHub Trophy
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical)
+
+
+![GitHub Pull Requests](https://github-readme-stats.vercel.app/api/pulls?username=iqbolshoh&theme=radical)
+![GitHub Issues](https://github-readme-stats.vercel.app/api/issues?username=iqbolshoh&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=iqbolshoh&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/wakatime?username=iqbolshoh&theme=radical)
+[![Most Starred](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=most-starred-repo&theme=radical)](https://github.com/iqbolshoh/most-starred-repo)
+![GitHub Metrics](https://metrics.lecoq.io/iqbolshoh?template=classic&config.timezone=Europe%2FBerlin)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&no-frame=true&no-bg=true)
+![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/languages-used?username=iqbolshoh&theme=radical)
+![Recent Commits](https://github-readme-stats.vercel.app/api/commits?username=iqbolshoh&theme=radical)
+
+
+
 
 ## Let's Connect
 
