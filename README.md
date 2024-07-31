@@ -15,15 +15,28 @@ I am a passionate Full-Stack Developer from Samarkand, Uzbekistan, currently in 
 - 🌐 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)
 - 📫 **Contact:** iilhomjonov777@gmail.com | +998(99)7799333
 
+### Languages I Speak
+- **Tajik:** Native
+- **Persian:** Fluent
+- **Uzbek:** Fluent
+- **Russian:** Intermediate
+- **English:** Intermediate
+  
+### Interests
+- **Programming**
+- **AI & Machine Learning**
+- **Cybersecurity**
+- **Language Learning**
+
 ## Technologies
 
 I have worked with a variety of programming languages and frameworks, which allows me to build robust and scalable applications.
-
-- **Specialties:** 
-  - Algorithms
-  - Web Development
-  - Cybersecurity
-  - Data Science
+  
+### Specialties
+- **Algorithms**
+- **Cybersecurity**
+- **Web Development**
+- **Data Science**
 
 - **Programming Languages:**
   - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -120,5 +133,5 @@ I love connecting with new people and exploring new opportunities. Feel free to 
 
 **I am always eager to learn new technologies and improve my skills.** 😊
 
-![Coding GIF](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611jfkx796cbyy1qqpbfg8ao0l59ygqrhymbiguo6fk&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Iqbolshoh](https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh.jpg)
 
