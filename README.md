@@ -92,7 +92,6 @@ Developed and enhanced numerous personal and business websites.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=market&theme=radical)](https://github.com/iqbolshoh/market)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=Admin-User-Roles&theme=radical)](https://github.com/iqbolshoh/Admin-User-Roles)
 
-
 ## Coding Stats
 
 ![Coding Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&theme=radical)
@@ -102,16 +101,26 @@ Developed and enhanced numerous personal and business websites.
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical)
 
+## GitHub Pull Requests
 
-![GitHub Pull Requests](https://github-readme-stats.vercel.app/api/pulls?username=iqbolshoh&theme=radical)
-![GitHub Issues](https://github-readme-stats.vercel.app/api/issues?username=iqbolshoh&theme=radical)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/iqbolshoh/iqbolshoh?style=for-the-badge)
+
+## GitHub Issues
+
+![GitHub Issues](https://img.shields.io/github/issues/iqbolshoh/iqbolshoh?style=for-the-badge)
+
+## Contribution Graph
+
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=iqbolshoh&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/wakatime?username=iqbolshoh&theme=radical)
-[![Most Starred](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=most-starred-repo&theme=radical)](https://github.com/iqbolshoh/most-starred-repo)
+
+## GitHub Metrics
+
 ![GitHub Metrics](https://metrics.lecoq.io/iqbolshoh?template=classic&config.timezone=Europe%2FBerlin)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&no-frame=true&no-bg=true)
-![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/languages-used?username=iqbolshoh&theme=radical)
-![Recent Commits](https://github-readme-stats.vercel.app/api/commits?username=iqbolshoh&theme=radical)
+
+## Most Starred Repository
+
+[![Most Starred](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=most-starred-repo&theme=radical)](https://github.com/iqbolshoh/most-starred-repo)
+
 
 
 ## Let's Connect
