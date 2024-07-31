@@ -21,8 +21,9 @@ I have worked with a variety of programming languages and frameworks, which allo
 
 - **Specialties:** 
   - Algorithms
-  - Cybersecurity
   - Web Development
+  - Cybersecurity
+  - Data Science
 
 - **Programming Languages:**
   - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -49,7 +50,6 @@ I have worked with a variety of programming languages and frameworks, which allo
 - **Databases:**
   - ![MySQL](https://img.shields.io/badge/MySQL-%2300f2d8.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 - **Coding Profiles:**
   - [Codewars](https://www.codewars.com/users/Iqbolshoh_777) 
   - [LeetCode](https://leetcode.com/Iqbolshoh_777) 
@@ -70,7 +70,7 @@ A platform for developers to sell their own websites. Users can find the website
 ### [Online Market](https://iqbolshoh.uz/market)
 An online marketplace platform that is user-friendly and efficient.
 
-**Technologies Used:** React, Node.js, MongoDB
+**Technologies Used:** Laravel, JavaScript, HTML, CSS, MySql
 
 ### [Personal Websites](https://iqbolshoh.uz)
 Developed and enhanced numerous personal and business websites.
@@ -89,8 +89,9 @@ Developed and enhanced numerous personal and business websites.
 
 ## Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=repo-name&theme=radical)](https://github.com/iqbolshoh/market)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=another-repo-name&theme=radical)](https://github.com/iqbolshoh/Admin-User-Roles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=market&theme=radical)](https://github.com/iqbolshoh/market)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=Admin-User-Roles&theme=radical)](https://github.com/iqbolshoh/Admin-User-Roles)
+
 
 ## Coding Stats
 
@@ -111,8 +112,6 @@ Developed and enhanced numerous personal and business websites.
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&no-frame=true&no-bg=true)
 ![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/languages-used?username=iqbolshoh&theme=radical)
 ![Recent Commits](https://github-readme-stats.vercel.app/api/commits?username=iqbolshoh&theme=radical)
-
-
 
 
 ## Let's Connect
