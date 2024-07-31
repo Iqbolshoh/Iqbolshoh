@@ -2,7 +2,7 @@
 
 👋 **Hello! I'm Iqbolshoh Ilhomjonov.**
 
-![Profile Banner](https://user-images.githubusercontent.com/123456789/123456789-1234abcd-5678efgh.png)
+![Profile Banner](https://github.com/username/repository-name/blob/main/path/to/banner.png?raw=true)
 
 ## About Me
 
