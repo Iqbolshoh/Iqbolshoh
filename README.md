@@ -37,11 +37,6 @@ I have worked with a variety of programming languages and frameworks, which allo
   - Algorithms
   - Cybersecurity
   - Web Development
-    
-- **Databases:**
-  - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 ## Projects
 
@@ -66,14 +61,22 @@ Developed and enhanced numerous personal and business websites.
 
 ![Iqbolshoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical)
+![Wakatime Stats](https://wakatime.com/badge/user/your-wakatime-id.svg)
+![GitHub Followers](https://img.shields.io/github/followers/iqbolshoh?label=Followers&style=social)
+![GitHub Following](https://img.shields.io/github/following/iqbolshoh?label=Following&style=social)
 
 ## Let's Connect
 
 I love connecting with new people and exploring new opportunities. Feel free to reach out to me through any of the platforms below:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iqbolshoh_777)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iqbolshoh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbolshoh/)
+[![Thread](https://img.shields.io/badge/Thread-%2317B7B7.svg?style=for-the-badge&logo=thread&logoColor=white)](https://www.threads.net/Iqbolshoh_777)
+[![Telegram](https://img.shields.io/badge/Telegram-%0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Iqbolshoh_777)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Iqbolshoh_777)
+[![TikTok](https://img.shields.io/badge/TikTok-%000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@iqbolshoh_777)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Iqbolshoh_777)
 
 **I am always eager to learn new technologies and improve my skills.** 😊
 
