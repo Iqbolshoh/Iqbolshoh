@@ -57,7 +57,6 @@ I have worked with a variety of programming languages and frameworks, which allo
   - [Kep.uz](https://kep.uz/profile/Iqbolshoh_777) 
   - [Robocontest.uz](https://robocontest.uz/profile/Iqbolshoh_777)
 
-
 ## Projects
 
 Here are some of the projects I have worked on:
@@ -80,7 +79,13 @@ Developed and enhanced numerous personal and business websites.
 ## GitHub Stats
 
 ![Iqbolshoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical)
+
+## Top Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical)
+
+## GitHub Contributions
+
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical)
 
 ## Language Statistics
@@ -101,28 +106,6 @@ Developed and enhanced numerous personal and business websites.
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical)
 
-## GitHub Pull Requests
-
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/iqbolshoh/iqbolshoh?style=for-the-badge)
-
-## GitHub Issues
-
-![GitHub Issues](https://img.shields.io/github/issues/iqbolshoh/iqbolshoh?style=for-the-badge)
-
-## Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=iqbolshoh&theme=radical)
-
-## GitHub Metrics
-
-![GitHub Metrics](https://metrics.lecoq.io/iqbolshoh?template=classic&config.timezone=Europe%2FBerlin)
-
-## Most Starred Repository
-
-[![Most Starred](https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=most-starred-repo&theme=radical)](https://github.com/iqbolshoh/most-starred-repo)
-
-
-
 ## Let's Connect
 
 I love connecting with new people and exploring new opportunities. Feel free to reach out to me through any of the platforms below:
@@ -137,4 +120,5 @@ I love connecting with new people and exploring new opportunities. Feel free to 
 
 **I am always eager to learn new technologies and improve my skills.** 😊
 
-![Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611jfkx796cbyy1qqpbfg8ao0l59ygqrhymbiguo6fk&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
