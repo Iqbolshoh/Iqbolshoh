@@ -111,11 +111,9 @@ applications.
 <img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical" alt="GitHub Trophy">
 </a>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh.jpg" alt="iqbolshoh" style="width: 70%; margin: 0 10px;">
-</div>
+  <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh.jpg" alt="iqbolshoh" style="display: block; margin: 0 auto; width: 50%;">
 
-## Let's Connect
+## Connect with Me
 
 I love connecting with new people and exploring new opportunities. Feel free to reach out to me through any of the
 platforms below:
