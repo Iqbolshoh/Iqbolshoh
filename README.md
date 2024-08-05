@@ -128,7 +128,6 @@ I love connecting with new people and exploring new opportunities. Feel free to 
 [![Thread](https://img.shields.io/badge/Thread-%2317B7B7.svg?style=for-the-badge&logo=thread&logoColor=white)](https://www.threads.net/Iqbolshoh_777)
 [![Telegram](https://img.shields.io/badge/Telegram-%0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Iqbolshoh_777)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Iqbolshoh_777)
-[![TikTok](https://img.shields.io/badge/TikTok-%000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@iqbolshoh_777)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Iqbolshoh_777)
 
 **I am always eager to learn new technologies and improve my skills.** 😊
