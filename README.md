@@ -30,11 +30,9 @@
 - **Russian**
 - **English**
 
-
 ## Technologies
 
-I have worked with a variety of programming languages and frameworks, which allows me to build robust and scalable
-applications.
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=18&center=false&vCenter=true&width=1200&height=20&lines=I+have+worked+with+a+variety+of+programming+languages+and+frameworks,+which+allows+me+to+build+robust+and+scalable+applications.">
 
 ### 💻 Programming Languages:
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
@@ -47,7 +45,7 @@ applications.
 
 ### 🎨 Frontend Technologies:
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/HTML-%23F06529.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -56,19 +54,20 @@ applications.
 
 ### 📚 Frameworks and Libraries:
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </div>
 
 ### 🗄️ Databases:
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <img src="https://img.shields.io/badge/MySQL-%2300f2d8.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
-
 
 ### 🏆 Coding Profiles:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
@@ -113,8 +112,7 @@ applications.
 
 ## Connect with Me
 
-I love connecting with new people and exploring new opportunities. Feel free to reach out to me through any of the
-platforms below:
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=18&center=false&vCenter=true&width=1200&height=20&lines=I+love+connecting+with+new+people+and+exploring+new+opportunities.+Feel+free+to+reach+out+to+me+through+any+of+the+platforms+below:">
 
 <table>
     <tr>
