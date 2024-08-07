@@ -16,9 +16,8 @@
 - 🎓 **Education:** Samarkand State University, Software Engineering, 3rd Year Student
 - 💻 **Occupation:** Full-Stack Developer
 - 🚀 **Experience:** 3+ Years in Programming
-- 🔗 **Website:** iqbolshoh.uz
-- ✉️ **Contact:** iilhomjonov777@gmail.com | +998(99)7799333
-
+- 🔗 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)
+- ✉️ **Contact:** [iilhomjonov777@gmail.com](mailto:iilhomjonov777@gmail.com) | Tel: <a href="tel:+9989997799333"> +998(99)7799333</a>
 
 ### 🌐 Languages I Speak
 
