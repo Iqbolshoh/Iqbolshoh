@@ -140,7 +140,7 @@ applications. 🚀💻
 
 ## GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical" alt="GitHub Trophy" width="200%">
+<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical" alt="GitHub Trophy" width="100%">
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="iqbolshoh" width="33%">
