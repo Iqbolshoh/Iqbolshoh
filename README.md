@@ -16,21 +16,40 @@
 
 ## About Me
 
-<ul>
-        <li><img src="icons/globe-solid.svg" class="icon" alt="Globe Icon"> <strong>Location: </strong> Samarkand, Uzbekistan</li>
-        <li><img src="icons/graduation-cap-solid.svg" class="icon" alt="Graduation Cap Icon"> <strong>Education: </strong> Samarkand State University, Software Engineering, 3rd Year Student</li>
-        <li><img src="icons/laptop-code-solid.svg" class="icon" alt="Laptop Code Icon"> <strong>Occupation: </strong> Full-Stack Developer</li>
-        <li><img src="icons/rocket-solid.svg" class="icon" alt="Rocket Icon"> <strong>Experience: </strong> 3+ Years in Programming</li>
-        <li><img src="icons/link-solid.svg" class="icon" alt="Link Icon"> <strong>Website: </strong> <a href="https://iqbolshoh.uz" target="_blank">iqbolshoh.uz</a></li>
-        <li><img src="icons/envelope-solid.svg" class="icon" alt="Envelope Icon"> <strong>Contact: </strong> <a href="mailto:iilhomjonov777@gmail.com">iilhomjonov777@gmail.com</a> | +998(99)7799333</li>
-</ul>
+- 🌍 **Location:** Samarkand, Uzbekistan
+- 🎓 **Education:** Samarkand State University, Software Engineering, 3rd Year Student
+- 💻 **Occupation:** Full-Stack Developer
+- 🚀 **Experience:** 3+ Years in Programming
+- 🔗 **Website:** iqbolshoh.uz
+- ✉️ **Contact:** iilhomjonov777@gmail.com | +998(99)7799333
+
 
 ### 🌐 Languages I Speak
-- **Tajik**
-- **Persian**
-- **Uzbek**
-- **Russian**
-- **English**
+
+<ul style="list-style-type: none; padding: 0; margin: 20px; max-width: 300px;">
+        <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
+            Tajik <img src="./images/tajikistan-flag.png" alt="Tajikistan Flag" width="30px"
+                style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
+            Persian <img src="./images/iran-flag.png" alt="Iran Flag" width="30px"
+                style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
+            Uzbek <img src="./images/uzbekistan-flag.png" alt="Uzbekistan Flag" width="30px"
+                style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
+            Russian <img src="./images/russia-flag.png" alt="Russia Flag" width="30px"
+                style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
+            English <img src="./images/united-kingdom-flag.png" alt="UK Flag" width="30px"
+                style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
+        </li>
+</ul>
+
+</body>
 
 ## Technologies
 
