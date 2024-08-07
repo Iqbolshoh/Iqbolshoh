@@ -16,12 +16,14 @@
 
 ## About Me
 
-- 🌍 **Location:** Samarkand, Uzbekistan
-- 🎓 **Education:** Samarkand State University, Software Engineering, 3rd year student
-- 💻 **Occupation:** Full-Stack Developer
-- 🚀 **Experience:** 3+ years in programming
-- 🌐 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)
-- 📫 **Contact:** iilhomjonov777@gmail.com | +998(99)7799333
+<ul>
+        <li><img src="icons/globe-solid.svg" class="icon" alt="Globe Icon"> <strong>Location: </strong> Samarkand, Uzbekistan</li>
+        <li><img src="icons/graduation-cap-solid.svg" class="icon" alt="Graduation Cap Icon"> <strong>Education: </strong> Samarkand State University, Software Engineering, 3rd Year Student</li>
+        <li><img src="icons/laptop-code-solid.svg" class="icon" alt="Laptop Code Icon"> <strong>Occupation: </strong> Full-Stack Developer</li>
+        <li><img src="icons/rocket-solid.svg" class="icon" alt="Rocket Icon"> <strong>Experience: </strong> 3+ Years in Programming</li>
+        <li><img src="icons/link-solid.svg" class="icon" alt="Link Icon"> <strong>Website: </strong> <a href="https://iqbolshoh.uz" target="_blank">iqbolshoh.uz</a></li>
+        <li><img src="icons/envelope-solid.svg" class="icon" alt="Envelope Icon"> <strong>Contact: </strong> <a href="mailto:iilhomjonov777@gmail.com">iilhomjonov777@gmail.com</a> | +998(99)7799333</li>
+</ul>
 
 ### 🌐 Languages I Speak
 - **Tajik**
