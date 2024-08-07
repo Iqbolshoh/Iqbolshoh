@@ -122,9 +122,9 @@ applications. 🚀💻
 ## Top Languages
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&theme=radical"
-    alt="Coding Stats" width="48%">
+    alt="Coding Stats" width="47.5%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical"
-    alt="Top Languages" width="51%">
+    alt="Top Languages" width="50.5%">
 
 ## Top Repositories
 
@@ -140,7 +140,7 @@ applications. 🚀💻
 
 ## GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical" alt="GitHub Trophy" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical" alt="GitHub Trophy" width="200%">
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="iqbolshoh" width="33%">
