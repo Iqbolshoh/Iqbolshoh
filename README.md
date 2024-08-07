@@ -1,19 +1,15 @@
-<a href="#stats">
-    <p align="center">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=1200&height=100&lines=Iqbolshoh+Ilhomjonov;Full-Stack+Developer+from+Samarkand;">
-    </p>
+<a href="">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=1200&height=100&lines=Iqbolshoh+Ilhomjonov;Full-Stack+Developer+from+Samarkand;">
 </a>
 
-<a href="#stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
-        alt="abhishek-stats" align="center" width="100%" />
+<a href="">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB" align="center" width="100%" />
 </a>
 
-<a href="#stats">
+<a href="">
     <p align="center">
         <img alt="Shaggy's Activity Graph"
-            src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title=My%20Contribution%20Graph"
+            src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title="
             align="center" width="100%" />
     </p>
 </a>
@@ -28,11 +24,11 @@
 - 📫 **Contact:** iilhomjonov777@gmail.com | +998(99)7799333
 
 ### 🌐 Languages I Speak
-- **Tajik:** Native
-- **Persian:** Fluent
-- **Uzbek:** Fluent
-- **Russian:** Intermediate
-- **English:** Intermediate
+- **Tajik**
+- **Persian**
+- **Uzbek**
+- **Russian**
+- **English**
 
 
 ## Technologies
@@ -84,12 +80,12 @@ applications.
 </div>
 
 ## GitHub Stats
-<a href="#stats">
+<a href="">
 <img src="https://github-readme-stats.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical" alt="GitHub Stats">
 </a>
 
 ## Top Languages
-<a href="#stats">
+<a href="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical" alt="Top Languages">
 </a>
 
@@ -103,13 +99,13 @@ applications.
 </a>
 
 ## Coding Stats
-<a href="#stats">
+<a href="">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&theme=radical" alt="Coding Stats">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iqbolshoh&theme=radical" alt="Coding Stats">
 </a>
 
 ## GitHub Trophy
-<a href="#stats">
+<a href="">
 <img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical" alt="GitHub Trophy">
 </a>
 
