@@ -75,11 +75,13 @@ applications.
 
 
 ### 🏆 Coding Profiles:
-- [Codewars](https://www.codewars.com/users/Iqbolshoh_777)
-- [LeetCode](https://leetcode.com/Iqbolshoh_777)
-- [Codeforces](https://codeforces.com/profile/Iqbolshoh_777)
-- [Kep.uz](https://kep.uz/profile/Iqbolshoh_777)
-- [Robocontest.uz](https://robocontest.uz/profile/Iqbolshoh_777)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <a href="https://www.codewars.com/users/Iqbolshoh_777" target="_blank">Codewars</a> |
+  <a href="https://leetcode.com/Iqbolshoh_777" target="_blank">LeetCode</a> |
+  <a href="https://codeforces.com/profile/Iqbolshoh_777" target="_blank">Codeforces</a> |
+  <a href="https://kep.uz/profile/Iqbolshoh_777" target="_blank">Kep.uz</a> |
+  <a href="https://robocontest.uz/profile/Iqbolshoh_777" target="_blank">Robocontest.uz</a>
+</div>
 
 ## GitHub Stats
 <a href="#stats">
