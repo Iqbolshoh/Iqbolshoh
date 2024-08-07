@@ -140,12 +140,12 @@ applications. 🚀💻
 
 ## GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical" alt="GitHub Trophy" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="iqbolshoh" width="33%">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-4.jpg" alt="iqbolshoh" width="33%">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="33%">
+    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="iqbolshoh" width="32%">
+    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-4.jpg" alt="iqbolshoh" width="32%">
+    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="32%">
 </div>
 
 ## Connect with Me
