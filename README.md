@@ -18,6 +18,7 @@
 🔗 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)  
 ✉️ **Email:** [iilhomjonov777@gmail.com](mailto:iilhomjonov777@gmail.com)  
 📞 **Phone:** [+998(99)7799333](tel:+9989997799333)  
+📞 **Phone:** [+998(33)3337790](tel:+99833337790)  
 
 ### 🌐 Languages I Speak
 
