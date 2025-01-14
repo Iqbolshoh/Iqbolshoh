@@ -48,7 +48,7 @@
 ## Technologies
 
 I have worked with a variety of programming languages and frameworks, which allows me to build robust and scalable
-applications. 🚀💻
+applications. 🚀
 
 ### 💻 Programming Languages:
 
