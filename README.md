@@ -13,49 +13,16 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=40&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=🌍+About+Me;Welcome+to+My+Profile!+👋;Full-Stack+Developer+from+Samarkand+🚀" />
 </div>
 
----
+## About Me
 
-### 🌍 **Location:**  
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=EB5454&center=true&vCenter=true&width=700&lines=Samarkand,+Uzbekistan+🇺🇿" />
-</p>
-
----
-
-### 🎓 **Education:**  
-- **Samarkand State University**  
-  *Software Engineering (3rd Year Student)*  
-
----
-
-### 💻 **Profession:**  
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&color=F1C40F&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Backend+and+Frontend+Expert" />
-</p>
-
----
-
-### 🚀 **Experience:**  
-Over **3 years** of expertise in programming and development.
-
----
-
-### 🔗 **Website:**  
-[![iqbolshoh.uz](https://img.shields.io/badge/-iqbolshoh.uz-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iqbolshoh.uz)
-
----
-
-### 📞 **Contact Me:**  
-- **Email:** [iilhomjonov777@gmail.com](mailto:iilhomjonov777@gmail.com)  
-- **Phone:** [+998(99)7799333](tel:+9989997799333)  
-- **Phone:** [+998(33)3337790](tel:+99833337790)  
-
----
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+🌟;Feel+free+to+connect+with+me!" />
-</div>
-
+🌍 **Location:** Samarkand, Uzbekistan 🇺🇿  
+🎓 **Education:** Samarkand State University, Software Engineering (3rd Year Student)  
+💻 **Profession:** Full-Stack Developer  
+🚀 **Experience:** Over 3 years of expertise in programming and development  
+🔗 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)  
+✉️ **Email:** [iilhomjonov777@gmail.com](mailto:iilhomjonov777@gmail.com)  
+📞 **Phone:** [+998(99)7799333](tel:+9989997799333)  
+📞 **Phone:** [+998(33)3337790](tel:+99833337790)  
 
 ### 🌐 Languages I Speak
 
