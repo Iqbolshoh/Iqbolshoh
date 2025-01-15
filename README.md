@@ -9,22 +9,69 @@ d<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=40&c
         align="center" width="100%" />
 </p>
 
-## About Me
+<div align="center">
 
-🌍 **Location:** Samarkand, Uzbekistan
-🎓 **Education:** Samarkand State University, Software Engineering (3rd Year Student)  
-💻 **Profession:** Full-Stack Developer  
-🚀 **Experience:** Over 3 years of expertise in programming and development  
-🔗 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)  
-✉️ **Email:** [iilhomjonov777@gmail.com](mailto:iilhomjonov777@gmail.com)  
-📞 **Phone:** [+998(99)7799333](tel:+9989997799333)  
-📞 **Phone:** [+998(33)3337790](tel:+99833337790)  
+<h1>
+  <span style="display: inline-block; animation: glow 1.5s infinite;">✨ Iqbolshoh Ilhomjonov ✨</span>
+</h1>
+<h3 style="font-style: italic;">Full-Stack Developer | Software Engineer | Innovator</h3>
 
-## Connect with Me
+</div>
 
-I love connecting with new people and exploring new opportunities. Feel free to reach out to me through any of the platforms below:
+<style>
+  @keyframes glow {
+    0%, 100% {
+      color: #ff007f;
+      text-shadow: 0 0 8px #ff007f, 0 0 16px #ff00ff, 0 0 24px #ff007f;
+    }
+    50% {
+      color: #00d4ff;
+      text-shadow: 0 0 8px #00d4ff, 0 0 16px #00fffa, 0 0 24px #00d4ff;
+    }
+  }
+  @keyframes slide {
+    0% { transform: translateX(0); }
+    50% { transform: translateX(10px); }
+    100% { transform: translateX(0); }
+  }
+  .slide {
+    display: inline-block;
+    animation: slide 2s infinite;
+  }
+</style>
 
-<table>
+---
+
+## 🌍 **Location**  
+<p class="slide">📍 Samarkand, Uzbekistan</p>  
+
+---
+
+## 🎓 **Education**  
+🎓 **Samarkand State University**  
+**Field:** Software Engineering (3rd Year Student)
+
+---
+
+## 💻 **Profession & Skills**  
+- 🔥 Full-Stack Development  
+- 🛠️ Proficient in **C++**, **Python**, **PHP**, **JavaScript**, **React**, **Node.js**, **Laravel**, **TypeScript**  
+- 🌐 Cybersecurity & Competitive Programming Enthusiast  
+- 📊 Database Management and System Design  
+
+---
+
+## 🚀 **Experience**  
+👨‍💻 Over **3 years** of expertise in:  
+- Web Development  
+- Building scalable applications  
+- Crafting unique online platforms  
+
+---
+
+## 🔗 **Connect with Me**
+
+<table align="center">
     <tr>
         <td>
             <a href="https://github.com/iqbolshoh">
@@ -45,9 +92,10 @@ I love connecting with new people and exploring new opportunities. Feel free to 
             </a>
         </td>
         <td>
-            <a href="https://instagram.com/iqbolshoh_777" target="blank"><img align="center"
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                    alt="instagram" height="48" width="48" /></a>
+            <a href="https://instagram.com/iqbolshoh_777">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+                    height="48" width="48" alt="Instagram" />
+            </a>
         </td>
         <td>
             <a href="https://wa.me/qr/22PVFQSMQQX4F1">
