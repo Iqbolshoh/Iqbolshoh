@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=Iqbolshoh+Ilhomjonov;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=Iqbolshoh+Ilhomjonov;" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=40&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=Full-Stack+Developer+|+Innovator;Full-Stack+Developer+from+Samarkand" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=35&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=Full-Stack+Developer;Software+Engineer;Innovator;Full-Stack+Developer+from+Samarkand" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
     align="center" width="100%" />
@@ -10,12 +10,6 @@
         src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title="
         align="center" width="100%" />
 </p>
-
-<div align="center">
-
-### *Full-Stack Developer | Software Engineer | Innovator*
-
-</div>
 
 ---
 
