@@ -11,7 +11,7 @@
 
 ## About Me
 
-🌍 **Location:** Samarkand, Uzbekistan 🇺🇿  
+🌍 **Location:** Samarkand, Uzbekistan
 🎓 **Education:** Samarkand State University, Software Engineering (3rd Year Student)  
 💻 **Profession:** Full-Stack Developer  
 🚀 **Experience:** Over 3 years of expertise in programming and development  
