@@ -144,7 +144,7 @@ I have experience with multiple programming languages and frameworks, enabling m
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="iqbolshoh" width="32%">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-4.jpg" alt="iqbolshoh" width="32%">
+    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-5.jpg" alt="iqbolshoh" width="32%">
     <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="32%">
 </div>
 
