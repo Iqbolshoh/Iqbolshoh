@@ -11,34 +11,21 @@
         align="center" width="100%" />
 </p>
 
----
+## About Me
+🌍 **Location:** Samarkand, Uzbekistan
+🎓 **Education:** Samarkand State University, Software Engineering (3rd Year Student)  
+💻 **Profession:** Full-Stack Developer  
+🚀 **Experience:** Over 3 years of expertise in programming and development  
+🔗 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)  
+✉️ **Email:** [iilhomjonov777@gmail.com](mailto:iilhomjonov777@gmail.com)  
+📞 **Phone:** [+998(99)7799333](tel:+9989997799333)  
+📞 **Phone:** [+998(33)3337790](tel:+99833337790)
 
-## 🌍 Location  
-📍 Samarkand, Uzbekistan  
-
----
-
-## 🎓 Education  
-🎓 **Samarkand State University**  
-**Field:** Software Engineering (3rd Year Student)  
-
----
-
-## 💻 Profession & Skills  
-- 🔥 Full-Stack Development  
-- 🛠️ Proficient in **C++**, **Python**, **PHP**, **JavaScript**, **React**, **Node.js**, **Laravel**, **TypeScript**  
-- 🌐 Cybersecurity & Competitive Programming Enthusiast  
-- 📊 Database Management and System Design  
-
----
-
-## 🚀 Experience  
-👨‍💻 Over **3 years** of expertise in:  
-- Web Development  
-- Building scalable applications  
-- Crafting unique online platforms  
-
----
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="iqbolshoh" width="32%">
+    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-5.jpg" alt="iqbolshoh" width="32%">
+    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="32%">
+</div>
 
 ## 🔗 Connect with Me 
 
@@ -210,9 +197,3 @@ I have experience with multiple programming languages and frameworks, enabling m
 ## GitHub Trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="iqbolshoh" width="32%">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-5.jpg" alt="iqbolshoh" width="32%">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="32%">
-</div>
