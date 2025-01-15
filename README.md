@@ -1,4 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=57&center=true&vCenter=true&width=1200&height=120&lines=Iqbolshoh+Ilhomjonov;Full-Stack+Developer+from+Samarkand;">
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=40&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=🌍+About+Me;Welcome+to+My+Profile!+👋;Full-Stack+Developer+from+Samarkand+🚀" />
+</div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
     align="center" width="100%" />
@@ -8,10 +11,6 @@
         src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title="
         align="center" width="100%" />
 </p>
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=40&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=🌍+About+Me;Welcome+to+My+Profile!+👋;Full-Stack+Developer+from+Samarkand+🚀" />
-</div>
 
 ## About Me
 
