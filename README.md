@@ -5,11 +5,41 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
     align="center" width="100%" />
 
-<p align="center">
+<div align="center">
     <img alt="Shaggy's Activity Graph"
         src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title="
         align="center" width="100%" />
-</p>
+</div>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical"
+    alt="GitHub Stats" width="100%">
+
+## Top Languages
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&theme=radical"
+    alt="Coding Stats" width="47.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical"
+    alt="Top Languages" width="50.5%">
+
+## Top Repositories
+
+<a href="https://github.com/Iqbolshoh/php-mysql-marketplace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=php-mysql-marketplace&theme=radical"
+        alt="Top Repositories" width="49%">
+</a>
+
+<a href="https://github.com/Iqbolshoh/website-english-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=website-english-platform&theme=radical"
+        alt="Top Repositories" width="49%">
+</a>
+
+## GitHub Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
+
+---
 
 ## About Me
 🌍 **Location:** Samarkand, Uzbekistan
@@ -26,6 +56,18 @@
     <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-5.jpg" alt="iqbolshoh" width="32%">
     <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="32%">
 </div>
+
+### 🏆 Coding Profiles:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+    <a href="https://www.codewars.com/users/Iqbolshoh_777" target="_blank">Codewars</a> |
+    <a href="https://leetcode.com/Iqbolshoh_777" target="_blank">LeetCode</a> |
+    <a href="https://codeforces.com/profile/Iqbolshoh_777" target="_blank">Codeforces</a> |
+    <a href="https://kep.uz/profile/Iqbolshoh_777" target="_blank">Kep.uz</a> |
+    <a href="https://robocontest.uz/profile/Iqbolshoh_777" target="_blank">Robocontest.uz</a>
+</div>
+
+---
 
 ## 🔗 Connect with Me 
 
@@ -76,6 +118,8 @@
     </tr>
 </table>
 
+---
+
 ### 🌐 Languages I Speak
 
 <ul style="list-style-type: none; padding: 0; margin: 20px; max-width: 300px;">
@@ -101,9 +145,9 @@
     </li>
 </ul>
 
-## Technologies
+---
 
-I have experience with multiple programming languages and frameworks, enabling me to develop efficient and scalable applications. 💻✨
+## Technologies
 
 ### 💻 Programming Languages:
 
@@ -159,41 +203,3 @@ I have experience with multiple programming languages and frameworks, enabling m
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="MongoDB">
 </div>
-
-### 🏆 Coding Profiles:
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-    <a href="https://www.codewars.com/users/Iqbolshoh_777" target="_blank">Codewars</a> |
-    <a href="https://leetcode.com/Iqbolshoh_777" target="_blank">LeetCode</a> |
-    <a href="https://codeforces.com/profile/Iqbolshoh_777" target="_blank">Codeforces</a> |
-    <a href="https://kep.uz/profile/Iqbolshoh_777" target="_blank">Kep.uz</a> |
-    <a href="https://robocontest.uz/profile/Iqbolshoh_777" target="_blank">Robocontest.uz</a>
-</div>
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical"
-    alt="GitHub Stats" width="100%">
-
-## Top Languages
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&theme=radical"
-    alt="Coding Stats" width="47.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical"
-    alt="Top Languages" width="50.5%">
-
-## Top Repositories
-
-<a href="https://github.com/Iqbolshoh/php-mysql-marketplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=php-mysql-marketplace&theme=radical"
-        alt="Top Repositories" width="49%">
-</a>
-
-<a href="https://github.com/Iqbolshoh/website-english-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=website-english-platform&theme=radical"
-        alt="Top Repositories" width="49%">
-</a>
-
-## GitHub Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
