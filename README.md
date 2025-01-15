@@ -1,4 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=57&center=true&vCenter=true&width=1200&height=120&lines=Iqbolshoh+Ilhomjonov;Full-Stack+Developer+from+Samarkand;">
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=40&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=🌍+About+Me;Welcome+to+My+Profile!+👋;Full-Stack+Developer+from+Samarkand+🚀" />
 </div>
