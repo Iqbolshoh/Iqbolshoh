@@ -1,4 +1,4 @@
-d<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=40&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=Welcome+to+My+Profile!+👋;Full-Stack+Developer+from+Samarkand" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=40&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=Welcome+to+My+Profile!+👋;Full-Stack+Developer+from+Samarkand" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
     align="center" width="100%" />
@@ -11,49 +11,25 @@ d<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=40&c
 
 <div align="center">
 
-<h1>
-  <span style="display: inline-block; animation: glow 1.5s infinite;">✨ Iqbolshoh Ilhomjonov ✨</span>
-</h1>
-<h3 style="font-style: italic;">Full-Stack Developer | Software Engineer | Innovator</h3>
+# ✨ Iqbolshoh Ilhomjonov ✨  
+### *Full-Stack Developer | Software Engineer | Innovator*
 
 </div>
 
-<style>
-  @keyframes glow {
-    0%, 100% {
-      color: #ff007f;
-      text-shadow: 0 0 8px #ff007f, 0 0 16px #ff00ff, 0 0 24px #ff007f;
-    }
-    50% {
-      color: #00d4ff;
-      text-shadow: 0 0 8px #00d4ff, 0 0 16px #00fffa, 0 0 24px #00d4ff;
-    }
-  }
-  @keyframes slide {
-    0% { transform: translateX(0); }
-    50% { transform: translateX(10px); }
-    100% { transform: translateX(0); }
-  }
-  .slide {
-    display: inline-block;
-    animation: slide 2s infinite;
-  }
-</style>
+---
+
+## 🌍 Location  
+📍 Samarkand, Uzbekistan  
 
 ---
 
-## 🌍 **Location**  
-<p class="slide">📍 Samarkand, Uzbekistan</p>  
-
----
-
-## 🎓 **Education**  
+## 🎓 Education  
 🎓 **Samarkand State University**  
-**Field:** Software Engineering (3rd Year Student)
+**Field:** Software Engineering (3rd Year Student)  
 
 ---
 
-## 💻 **Profession & Skills**  
+## 💻 Profession & Skills  
 - 🔥 Full-Stack Development  
 - 🛠️ Proficient in **C++**, **Python**, **PHP**, **JavaScript**, **React**, **Node.js**, **Laravel**, **TypeScript**  
 - 🌐 Cybersecurity & Competitive Programming Enthusiast  
@@ -61,7 +37,7 @@ d<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=40&c
 
 ---
 
-## 🚀 **Experience**  
+## 🚀 Experience  
 👨‍💻 Over **3 years** of expertise in:  
 - Web Development  
 - Building scalable applications  
@@ -69,7 +45,7 @@ d<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=40&c
 
 ---
 
-## 🔗 **Connect with Me**
+## 🔗 Connect with Me 
 
 <table align="center">
     <tr>
