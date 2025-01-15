@@ -57,16 +57,6 @@
     <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="32%">
 </div>
 
-### 🏆 Coding Profiles:
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-    <a href="https://www.codewars.com/users/Iqbolshoh_777" target="_blank">Codewars</a> |
-    <a href="https://leetcode.com/Iqbolshoh_777" target="_blank">LeetCode</a> |
-    <a href="https://codeforces.com/profile/Iqbolshoh_777" target="_blank">Codeforces</a> |
-    <a href="https://kep.uz/profile/Iqbolshoh_777" target="_blank">Kep.uz</a> |
-    <a href="https://robocontest.uz/profile/Iqbolshoh_777" target="_blank">Robocontest.uz</a>
-</div>
-
 ---
 
 ## 🔗 Connect with Me 
@@ -118,6 +108,16 @@
     </tr>
 </table>
 
+### 🏆 Coding Profiles:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+    <a href="https://www.codewars.com/users/Iqbolshoh_777" target="_blank">Codewars</a> |
+    <a href="https://leetcode.com/Iqbolshoh_777" target="_blank">LeetCode</a> |
+    <a href="https://codeforces.com/profile/Iqbolshoh_777" target="_blank">Codeforces</a> |
+    <a href="https://kep.uz/profile/Iqbolshoh_777" target="_blank">Kep.uz</a> |
+    <a href="https://robocontest.uz/profile/Iqbolshoh_777" target="_blank">Robocontest.uz</a>
+</div>
+
 ---
 
 ### 🌐 Languages I Speak
@@ -147,7 +147,7 @@
 
 ---
 
-## Technologies
+## 🚀 Technologies
 
 ### 💻 Programming Languages:
 
