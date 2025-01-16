@@ -42,6 +42,13 @@
 ---
 
 ## About Me
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="iqbolshoh" width="32%">
+    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-5.jpg" alt="iqbolshoh" width="32%">
+    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="32%">
+</div>
+
 🌍 **Location:** Samarkand, Uzbekistan
 🎓 **Education:** Samarkand State University, Software Engineering (3rd Year Student)  
 💻 **Profession:** Full-Stack Developer  
@@ -50,12 +57,6 @@
 ✉️ **Email:** [iilhomjonov777@gmail.com](mailto:iilhomjonov777@gmail.com)  
 📞 **Phone:** [+998(99)7799333](tel:+9989997799333)  
 📞 **Phone:** [+998(33)3337790](tel:+99833337790)
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="iqbolshoh" width="32%">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-5.jpg" alt="iqbolshoh" width="32%">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="32%">
-</div>
 
 ---
 
