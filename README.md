@@ -61,7 +61,7 @@
 
 ## 🔗 Connect with Me 
 
-<table align="center">
+<table>
     <tr>
         <td>
             <a href="https://github.com/iqbolshoh">
