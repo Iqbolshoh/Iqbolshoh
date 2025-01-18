@@ -60,7 +60,7 @@
 
 ---
 
-## 🔗 Connect with Me 
+## Connect with Me 
 
 <table>
     <tr>
