@@ -105,8 +105,6 @@
     </tr>
 </table>
 
----
-
 ## Languages I Speak
 
 <ul style="list-style-type: none; padding: 0; margin: 20px; max-width: 300px;">
@@ -131,8 +129,6 @@
             style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
     </li>
 </ul>
-
----
 
 ## Technologies
 
