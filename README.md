@@ -55,8 +55,8 @@
 🚀 **Experience:** Over 3 years of expertise in programming and development  
 🔗 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)  
 ✉️ **Email:** [iilhomjonov777@gmail.com](mailto:iilhomjonov777@gmail.com)  
-📞 **Phone 1:** [+998(99)7799333](tel:+9989997799333)  
-📞 **Phone 2:** [+998(33)3337790](tel:+99833337790) 
+📞 **Phone 1:** [+998(99)7799333](tel:+998997799333)  
+📞 **Phone 2:** [+998(33)3337790](tel:+998333337790) 
 
 <table>
     <tr>
