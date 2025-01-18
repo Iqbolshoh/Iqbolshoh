@@ -49,14 +49,14 @@
     <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="32%">
 </div>
 
---🌍 **Location:** Samarkand, Uzbekistan
---🎓 **Education:** Samarkand State University, Software Engineering (3rd Year Student)  
+🌍 **Location:** Samarkand, Uzbekistan  
+🎓 **Education:** 3rd-Year Software Engineering Student, Samarkand State University  
 💻 **Profession:** Full-Stack Developer  
 🚀 **Experience:** Over 3 years of expertise in programming and development  
 🔗 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)  
 ✉️ **Email:** [iilhomjonov777@gmail.com](mailto:iilhomjonov777@gmail.com)  
-📞 **Phone:** [+998(99)7799333](tel:+9989997799333)  
-📞 **Phone:** [+998(33)3337790](tel:+99833337790)
+📞 **Phone 1:** [+998(99)7799333](tel:+9989997799333)  
+📞 **Phone 2:** [+998(33)3337790](tel:+99833337790)  
 
 ---
 
