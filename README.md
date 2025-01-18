@@ -18,7 +18,7 @@
 
 ## Top Languages
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&theme=radical"
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&layout=compact&theme=radical"
     alt="Coding Stats" width="47.5%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical"
     alt="Top Languages" width="50.5%">
