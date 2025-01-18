@@ -107,7 +107,7 @@
 
 ---
 
-### 🌐 Languages I Speak
+## Languages I Speak
 
 <ul style="list-style-type: none; padding: 0; margin: 20px; max-width: 300px;">
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
@@ -134,7 +134,7 @@
 
 ---
 
-## 🚀 Technologies
+## Technologies
 
 ### 💻 Programming Languages:
 
