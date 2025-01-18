@@ -49,8 +49,8 @@
     <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="32%">
 </div>
 
-🌍 **Location:** Samarkand, Uzbekistan
-🎓 **Education:** Samarkand State University, Software Engineering (3rd Year Student)  
+--🌍 **Location:** Samarkand, Uzbekistan
+--🎓 **Education:** Samarkand State University, Software Engineering (3rd Year Student)  
 💻 **Profession:** Full-Stack Developer  
 🚀 **Experience:** Over 3 years of expertise in programming and development  
 🔗 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)  
