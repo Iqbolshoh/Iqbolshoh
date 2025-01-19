@@ -5,32 +5,26 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB" align="center" width="100%" />
 
 <div align="center">
-    <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300"
-        align="center" width="100%" />
+    <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
 </div>
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical"
-    alt="GitHub Stats" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
 
 ## Top Languages
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&layout=compact&theme=radical"
-    alt="Coding Stats" width="47.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical"
-    alt="Top Languages" width="50.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&layout=compact&theme=radical" alt="Coding Stats" width="47.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical" alt="Top Languages" width="50.5%">
 
 ## Top Repositories
 
 <a href="https://github.com/Iqbolshoh/php-mysql-marketplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=php-mysql-marketplace&theme=radical"
-        alt="Top Repositories" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=php-mysql-marketplace&theme=radical" alt="Top Repositories" width="49%">
 </a>
 
 <a href="https://github.com/Iqbolshoh/website-english-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=website-english-platform&theme=radical"
-        alt="Top Repositories" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=website-english-platform&theme=radical" alt="Top Repositories" width="49%">
 </a>
 
 ## GitHub Trophy
@@ -60,44 +54,37 @@
     <tr>
         <td>
             <a href="https://github.com/iqbolshoh">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-                    height="48" width="48" alt="GitHub" />
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="48" width="48" alt="GitHub" />
             </a>
         </td>
         <td>
             <a href="https://t.me/iqbolshoh_777">
-                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
-                    height="48" width="48" alt="Telegram" />
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram" />
             </a>
         </td>
         <td>
             <a href="https://www.linkedin.com/in/iiqbolshoh/">
-                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
-                    height="48" width="48" alt="LinkedIn" />
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn" />
             </a>
         </td>
         <td>
             <a href="https://instagram.com/iqbolshoh_777">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                    height="48" width="48" alt="Instagram" />
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="48" width="48" alt="Instagram" />
             </a>
         </td>
         <td>
             <a href="https://wa.me/qr/22PVFQSMQQX4F1">
-                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg"
-                    height="48" width="48" alt="WhatsApp" />
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp" />
             </a>
         </td>
         <td>
             <a href="https://x.com/iqbolshoh_777">
-                <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="48"
-                    width="48" alt="Twitter" />
+                <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="48" width="48" alt="Twitter" />
             </a>
         </td>
         <td>
             <a href="mailto:iilhomjonov777@gmail.com">
-                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
-                    height="48" width="48" alt="Email" />
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email" />
             </a>
         </td>
     </tr>
