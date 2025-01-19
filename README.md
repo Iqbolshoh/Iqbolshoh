@@ -14,8 +14,10 @@
 
 ## Top Languages
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&layout=compact&theme=radical" alt="Coding Stats" width="47.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical" alt="Top Languages" width="50.5%">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&layout=compact&theme=radical" alt="Coding Stats" style="max-width: 48%; height: auto;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical" alt="Top Languages" style="max-width: 48%; height: auto;">
+</div>
 
 ## Top Repositories
 
