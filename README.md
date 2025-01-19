@@ -19,6 +19,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical" alt="Top Languages" width="50%">
 </div>
 
+## GitHub Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
+
 ## Top Repositories
 
 <a href="https://github.com/Iqbolshoh/php-mysql-marketplace">
@@ -28,10 +32,6 @@
 <a href="https://github.com/Iqbolshoh/website-english-platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=website-english-platform&theme=radical" alt="Top Repositories" width="49%">
 </a>
-
-## GitHub Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
 
 ---
 
