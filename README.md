@@ -94,24 +94,19 @@
 
 <ul style="list-style-type: none; padding: 0; margin: 20px; max-width: 300px;">
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        Tajik <img src="./images/tajikistan-flag.png" alt="Tajikistan Flag" width="30px"
-            style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
+        Tajik <img src="./images/tajikistan-flag.png" alt="Tajikistan Flag" width="30px" style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        Persian <img src="./images/iran-flag.png" alt="Iran Flag" width="30px"
-            style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
+        Persian <img src="./images/iran-flag.png" alt="Iran Flag" width="30px" style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        Uzbek <img src="./images/uzbekistan-flag.png" alt="Uzbekistan Flag" width="30px"
-            style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
+        Uzbek <img src="./images/uzbekistan-flag.png" alt="Uzbekistan Flag" width="30px" style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        Russian <img src="./images/russia-flag.png" alt="Russia Flag" width="30px"
-            style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
+        Russian <img src="./images/russia-flag.png" alt="Russia Flag" width="30px" style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        English <img src="./images/united-kingdom-flag.png" alt="UK Flag" width="30px"
-            style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
+        English <img src="./images/united-kingdom-flag.png" alt="UK Flag" width="30px" style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
     </li>
 </ul>
 
