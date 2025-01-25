@@ -8,7 +8,7 @@
     <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
 </div>
 
-<img src="https://user-badge.committers.top/uzbekistan/iqbolshoh.svg" alt="committers.top badge" data-canonical-src="https://user-badge.committers.top/uzbekistan/iqbolshoh.svg" style="max-width: 100%;">
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/iqbolshoh.svg)](https://user-badge.committers.top/uzbekistan/iqbolshoh)
 
 ## GitHub Stats
 
