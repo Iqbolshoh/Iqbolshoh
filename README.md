@@ -9,7 +9,7 @@
 </div>
 
 🌍 **Location:** Samarkand, Uzbekistan  
-🎓 **Education:** 3rd-Year Software Engineering Student, Samarkand State University  
+🎓 **Education:** 4rd-Year Software Engineering Student, Samarkand State University  
 💻 **Profession:** Full-Stack Developer  
 🚀 **Experience:** Over 3 years of expertise in programming and development  
 🔗 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)  
