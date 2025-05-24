@@ -127,7 +127,7 @@
                 </a>
             </td>
             <td>
-                <a href="https://www.linkedin.com/in/iiqbolshoh/">
+                <a href="https://www.linkedin.com/in/iqbolshoh/">
                     <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
                         height="40" width="40" alt="LinkedIn" />
                 </a>
