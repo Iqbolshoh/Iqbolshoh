@@ -5,11 +5,8 @@
 </p>
 
 <div align="center">
-
 ✨ I'm <strong>Iqbolshoh Ilhomjonov</strong>, a passionate Full-Stack Developer and 4th-year Software Engineering student from the legendary city of <strong>Samarkand, Uzbekistan</strong>.  
-With over 3 years of experience, I specialize in building seamless, user-centric digital experiences — blending creativity and clean code.  
-My mission? To build impactful global solutions that empower and inspire. 🚀
-
+With over 3 years of experience, I specialize in building seamless, user-centric digital experiences — blending creativity and clean code. 🚀
 </div>
 
 <p align="center">
