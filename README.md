@@ -2,40 +2,75 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=Full-Stack+Developer+from+Samarkand;Software+Engineer" />
 
+<div align="center">
+  <h1>🌌 My Coding Odyssey</h1>
+  <p>
+    <em>I'm <strong>Iqbolshoh Ilhomjonov</strong>, a passionate Full-Stack Developer and 4th-year Software Engineering student from the ancient, vibrant city of <strong>Samarkand, Uzbekistan</strong>. With over 3 years of experience, I weave creativity and code to build seamless, user-centric digital experiences. My mission? To create impactful solutions that resonate globally. 🚀</em>
+  </p>
+</div>
+
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="iqbolshoh" width="32%">
     <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-5.jpg" alt="iqbolshoh" width="32%">
     <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="32%">
 </div>
 
-🌍 **Location:** Samarkand, Uzbekistan  
-🎓 **Education:** 4rd-Year Software Engineering Student, Samarkand State University  
-💻 **Profession:** Full-Stack Developer  
-🚀 **Experience:** Over 3 years of expertise in programming and development  
-🔗 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)  
-✉️ **Email:** [iilhomjonov777@gmail.com](mailto:iilhomjonov777@gmail.com)  
-📞 **Phone 1:** [+998(99)7799333](tel:+998997799333)  
-📞 **Phone 2:** [+998(33)3337790](tel:+998333337790) 
+---
 
-## Languages I Speak
+## 🌟 Who Am I?
 
-<ul style="list-style-type: none; padding: 0; margin: 20px; max-width: 300px;">
-    <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        Tajik <img src="./images/tajikistan-flag.png" alt="Tajikistan Flag" width="30px" style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        Persian <img src="./images/iran-flag.png" alt="Iran Flag" width="30px" style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        Uzbek <img src="./images/uzbekistan-flag.png" alt="Uzbekistan Flag" width="30px" style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        Russian <img src="./images/russia-flag.png" alt="Russia Flag" width="30px" style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        English <img src="./images/united-kingdom-flag.png" alt="UK Flag" width="30px" style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
-    </li>
-</ul>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/marker.png" width="40" alt="Location Icon">
+        <h3>🌍 Location</h3>
+        <p>Samarkand, Uzbekistan</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon">
+        <h3>🎓 Education</h3>
+        <p>4th-Year Software Engineering<br>Samarkand State University</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon">
+        <h3>💻 Profession</h3>
+        <p>Full-Stack Developer</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🗣️ Languages I Speak
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://flagcdn.com/32x24/tj.png" width="32" alt="Tajikistan Flag">
+        <p><strong>Tajik</strong></p>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/32x24/ir.png" width="32" alt="Iran Flag">
+        <p><strong>Persian</strong></p>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/32x24/uz.png" width="32" alt="Uzbekistan Flag">
+        <p><strong>Uzbek</strong></p>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/32x24/ru.png" width="32" alt="Russia Flag">
+        <p><strong>Russian</strong></p>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/32x24/gb.png" width="32" alt="UK Flag">
+        <p><strong>English</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Technologies
 
