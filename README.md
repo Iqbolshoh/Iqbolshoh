@@ -22,17 +22,17 @@ My mission? To build impactful global solutions that empower and inspire. 🚀
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/marker.png" width="40" alt="Location Icon"/><br/>
-      <strong>🌍 Location</strong><br/>
+      <strong>Location</strong><br/>
       Samarkand, Uzbekistan
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon"/><br/>
-      <strong>🎓 Education</strong><br/>
+      <strong>Education</strong><br/>
       4th-Year Student<br/>Samarkand State University
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
-      <strong>💻 Profession</strong><br/>
+      <strong>Profession</strong><br/>
       Full-Stack Developer
     </td>
   </tr>
@@ -131,7 +131,7 @@ My mission? To build impactful global solutions that empower and inspire. 🚀
   </table>
 </div>
 
-## 🏆 Programming Platforms & Ratings
+## 🏆 Programming Ratings
 
 <div align="center">
   <table>
