@@ -235,22 +235,22 @@ With over 3 years of experience, I specialize in building seamless, user-centric
     <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
 </div>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
 
-## GitHub Trophy
+## 🏆 GitHub Trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
 
-## Top Languages
+## 📈 Top Languages
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&layout=compact&theme=radical" alt="Coding Stats" width="47.5%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical" alt="Top Languages" width="50%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&layout=compact&theme=radical" alt="Coding Stats" width="47.5%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical" alt="Top Languages" width="50%">
 </div>
 
-## Top Repositories
+## 🚀 Top Repositories
 
 <a href="https://github.com/Iqbolshoh/php-mysql-marketplace">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=php-mysql-marketplace&theme=radical" alt="Top Repositories" width="49%">
