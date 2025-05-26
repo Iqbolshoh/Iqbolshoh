@@ -102,7 +102,7 @@ With over 3 years of experience, I specialize in building seamless, user-centric
         </a>
       </td>
       <td>
-        <a href="https://wa.me/qr/22PVFQSMQQX4F1" target="_blank">
+        <a href="https://wa.me/998997799333" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg"
                height="40" width="40" alt="WhatsApp" title="WhatsApp" />
         </a>
