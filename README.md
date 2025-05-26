@@ -65,7 +65,8 @@ With over 3 years of experience, I specialize in building seamless, user-centric
   </table>
 </div>
 
-## 📬 My Contact
+## 📬 Connect with Me  
+💬 I love meeting new people and discussing tech, business, and creative ideas. Let’s connect! You can reach me on these platforms:
 
 <div align="center">
   <table>
@@ -252,10 +253,18 @@ With over 3 years of experience, I specialize in building seamless, user-centric
 
 ## 🚀 Top Repositories
 
+<a href="https://github.com/Iqbolshoh/laravel-business-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iqbolshoh&repo=laravel-business-website&theme=radical" alt="Laravel Business Website" width="49%">
+</a>
+
 <a href="https://github.com/Iqbolshoh/php-mysql-marketplace">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=php-mysql-marketplace&theme=radical" alt="Top Repositories" width="49%">
 </a>
 
-<a href="https://github.com/Iqbolshoh/website-english-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=website-english-platform&theme=radical" alt="Top Repositories" width="49%">
+<a href="https://github.com/Iqbolshoh/php-social-messenger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iqbolshoh&repo=php-social-messenger&theme=radical" alt="PHP Social Messenger" width="49%">
+</a>
+
+<a href="https://github.com/Iqbolshoh/php-auth-master">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iqbolshoh&repo=php-auth-master&theme=radical" alt="PHP Auth Master" width="49%">
 </a>
