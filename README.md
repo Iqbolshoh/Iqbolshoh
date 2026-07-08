@@ -1,18 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=Iqbolshoh+Ilhomjonov" alt="Typing SVG" />
-  <br/>
+  <img src="./images/banner.png" alt="Iqbolshoh Ilhomjonov Banner" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=Full-Stack+Developer+from+Samarkand;Software+Engineer;Web+Developer+and+Mentor" alt="Typing SVG" />
 </p>
 
 <div align="center">
-✨ I'm <strong>Iqbolshoh Ilhomjonov</strong>, a passionate Full-Stack Developer and 4th-year Software Engineering student from the legendary city of <strong>Samarkand, Uzbekistan</strong>.  
+✨ I'm <strong>Iqbolshoh Ilhomjonov</strong>, a passionate Full-Stack Developer and 4th-year Software Engineering student from the legendary city of <strong>Samarkand, Uzbekistan</strong>.
 With over 3 years of experience, I specialize in building seamless, user-centric digital experiences — blending creativity and clean code. 🚀
 </div>
 
 <p align="center">
-  <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="Iqbolshoh photo 1" width="30%"/>
-  <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-5.jpg" alt="Iqbolshoh photo 2" width="30%"/>
-  <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="Iqbolshoh photo 3" width="30%"/>
+  <img src="./images/iqbolshoh-1.jpg" alt="Iqbolshoh photo 1" width="30%"/>
+  <img src="./images/iqbolshoh-5.jpg" alt="Iqbolshoh photo 2" width="30%"/>
+  <img src="./images/iqbolshoh-3.jpg" alt="Iqbolshoh photo 3" width="30%"/>
 </p>
 
 <table align="center">
@@ -35,98 +37,50 @@ With over 3 years of experience, I specialize in building seamless, user-centric
   </tr>
 </table>
 
-
 ## 🗣️ Languages I Speak
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://flagcdn.com/32x24/tj.png" width="32" alt="Tajikistan Flag">
+        <img src="./images/tajikistan-flag.png" width="32" alt="Tajikistan Flag">
         <p><strong>Tajik</strong></p>
       </td>
       <td align="center">
-        <img src="https://flagcdn.com/32x24/ir.png" width="32" alt="Iran Flag">
+        <img src="./images/iran-flag.png" width="32" alt="Iran Flag">
         <p><strong>Persian</strong></p>
       </td>
       <td align="center">
-        <img src="https://flagcdn.com/32x24/uz.png" width="32" alt="Uzbekistan Flag">
+        <img src="./images/uzbekistan-flag.png" width="32" alt="Uzbekistan Flag">
         <p><strong>Uzbek</strong></p>
       </td>
       <td align="center">
-        <img src="https://flagcdn.com/32x24/ru.png" width="32" alt="Russia Flag">
+        <img src="./images/russia-flag.png" width="32" alt="Russia Flag">
         <p><strong>Russian</strong></p>
       </td>
       <td align="center">
-        <img src="https://flagcdn.com/32x24/gb.png" width="32" alt="UK Flag">
+        <img src="./images/united-kingdom-flag.png" width="32" alt="UK Flag">
         <p><strong>English</strong></p>
       </td>
     </tr>
   </table>
 </div>
 
-## 📬 Connect with Me  
-💬 I love meeting new people and discussing tech, business, and creative ideas. Let’s connect! You can reach me on these platforms:
+## 📬 Connect with Me
+💬 I love meeting new people and discussing tech, business, and creative ideas. Let's connect! You can reach me on these platforms:
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://iqbolshoh.uz" target="_blank">
-          <img src="https://img.icons8.com/color/48/domain.png" 
-               height="40" width="40" alt="Website" title="Website" />
-        </a>
-      </td>
-      <td>
-        <a href="mailto:iilhomjonov777@gmail.com" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
-               height="40" width="40" alt="Email" title="Email" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iqbolshoh" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-               height="40" width="40" alt="GitHub" title="GitHub" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.linkedin.com/in/iqbolshoh/" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
-               height="40" width="40" alt="LinkedIn" title="LinkedIn" />
-        </a>
-      </td>
-      <td>
-        <a href="https://t.me/iqbolshoh_777" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
-               height="40" width="40" alt="Telegram" title="Telegram" />
-        </a>
-      </td>
-      <td>
-        <a href="https://wa.me/998997799333" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg"
-               height="40" width="40" alt="WhatsApp" title="WhatsApp" />
-        </a>
-      </td>
-      <td>
-        <a href="https://instagram.com/iqbolshoh_777" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-               height="40" width="40" alt="Instagram" title="Instagram" />
-        </a>
-      </td>
-      <td>
-        <a href="https://x.com/iqbolshoh_777" target="_blank">
-          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
-               height="40" width="40" alt="X" title="X (Twitter)" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/@Iqbolshoh_777" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-               height="40" width="40" alt="YouTube" title="YouTube" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iqbolshoh.uz)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iilhomjonov777@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iqbolshoh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbolshoh/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iqbolshoh_777)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/998997799333)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iqbolshoh_777)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iqbolshoh_777)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Iqbolshoh_777)
+
 </div>
 
 ## 🏆 Programming Ratings
@@ -136,31 +90,31 @@ With over 3 years of experience, I specialize in building seamless, user-centric
     <tr>
       <td>
         <a href="https://codeforces.com/profile/Iqbolshoh_777" target="_blank" title="Visit Codeforces Profile">
-          <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" 
+          <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"
                height="40" alt="Codeforces Profile Badge" />
         </a>
       </td>
       <td>
         <a href="https://www.codewars.com/users/Iqbolshoh_777" target="_blank" title="Visit Codewars Profile">
-          <img src="https://img.shields.io/badge/Codewars-%23AD2C27.svg?style=for-the-badge&logo=codewars&logoColor=white" 
+          <img src="https://img.shields.io/badge/Codewars-%23AD2C27.svg?style=for-the-badge&logo=codewars&logoColor=white"
                height="40" alt="Codewars Profile Badge" />
         </a>
       </td>
-        <td>
+      <td>
         <a href="https://leetcode.com/u/Iqbolshoh_777/" target="_blank" title="Visit LeetCode Profile">
-          <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" 
+          <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"
                height="40" alt="LeetCode Profile Badge" />
         </a>
       </td>
       <td>
-        <a href="hackerrank.com/iqbolshoh" target="_blank" title="Visit HackerRank Profile">
-          <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" 
+        <a href="https://www.hackerrank.com/iqbolshoh" target="_blank" title="Visit HackerRank Profile">
+          <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"
                height="40" alt="HackerRank Profile Badge" />
         </a>
       </td>
       <td>
         <a href="https://atcoder.jp/users/Iqbolshoh_777" target="_blank" title="Visit AtCoder Profile">
-          <img src="https://img.shields.io/badge/AtCoder-%230099CC.svg?style=for-the-badge&logo=atcoder&logoColor=white" 
+          <img src="https://img.shields.io/badge/AtCoder-%230099CC.svg?style=for-the-badge&logo=atcoder&logoColor=white"
                height="40" alt="AtCoder Profile Badge" />
         </a>
       </td>
@@ -178,7 +132,7 @@ With over 3 years of experience, I specialize in building seamless, user-centric
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -230,41 +184,41 @@ With over 3 years of experience, I specialize in building seamless, user-centric
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB" align="center" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=iqbolshoh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB" align="center" width="100%" />
 
 <div align="center">
-    <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
+    <img alt="Iqbolshoh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
 </div>
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
 
 ## 🏆 GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
+<img src="https://github-profile-trophy-nu.vercel.app/?username=iqbolshoh&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
 
 ## 📈 Top Languages
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&layout=compact&theme=radical" alt="Coding Stats" width="47.5%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical" alt="Top Languages" width="50%">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical" alt="Top Languages" width="50%">
 </div>
 
 ## 🚀 Top Repositories
 
 <a href="https://github.com/Iqbolshoh/laravel-business-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iqbolshoh&repo=laravel-business-website&theme=radical" alt="Laravel Business Website" width="49%">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Iqbolshoh&repo=laravel-business-website&theme=radical" alt="Laravel Business Website" width="49%">
 </a>
 
 <a href="https://github.com/Iqbolshoh/php-mysql-marketplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=php-mysql-marketplace&theme=radical" alt="Top Repositories" width="49%">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=iqbolshoh&repo=php-mysql-marketplace&theme=radical" alt="Top Repositories" width="49%">
 </a>
 
 <a href="https://github.com/Iqbolshoh/php-social-messenger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iqbolshoh&repo=php-social-messenger&theme=radical" alt="PHP Social Messenger" width="49%">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Iqbolshoh&repo=php-social-messenger&theme=radical" alt="PHP Social Messenger" width="49%">
 </a>
 
-<a href="https://github.com/Iqbolshoh/php-auth-master">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iqbolshoh&repo=php-auth-master&theme=radical" alt="PHP Auth Master" width="49%">
+<a href="https://github.com/Iqbolshoh/php-test-platform">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Iqbolshoh&repo=php-test-platform&theme=radical" alt="PHP Test Platform" width="49%">
 </a>
