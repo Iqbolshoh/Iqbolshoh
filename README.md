@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-✨ I'm <strong>Iqbolshoh Ilhomjonov</strong>, a passionate Full-Stack Developer and 4th-year Software Engineering student from the legendary city of <strong>Samarkand, Uzbekistan</strong>.
-With over 4 years of experience, I specialize in building seamless, user-centric digital experiences — blending creativity and clean code. 🚀
+✨ I'm <strong>Iqbolshoh Ilhomjonov</strong>, a passionate Full-Stack Developer and Software Engineering graduate of Samarkand State University, from the legendary city of <strong>Samarkand, Uzbekistan</strong>.
+With 5+ years of experience, I specialize in building seamless, user-centric digital experiences — blending creativity and clean code. 🚀
 </div>
 
 <p align="center">
@@ -27,7 +27,7 @@ With over 4 years of experience, I specialize in building seamless, user-centric
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon"/><br/>
       <strong>Education</strong><br/>
-      4th-Year Student<br/>Samarkand State University
+      Graduate<br/>Samarkand State University
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
